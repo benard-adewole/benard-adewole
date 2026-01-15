@@ -1,4 +1,5 @@
 ## Hi there 👋
+Benard has a background in robotics, artificial intelligence, and software development. He is passionate about turning ideas into reality through thoughtful design, engineering, and execution. His work focuses on the intersection of robot perception and autonomy.
 
 <!--
 **benard-adewole/benard-adewole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
